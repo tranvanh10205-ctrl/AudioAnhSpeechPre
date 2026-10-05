@@ -1370,4 +1370,4 @@ $$
 
 ---
 
-> **Ghi chú:** Các nhận xét định lượng trong README được rút ra trực tiếp từ các hình kết quả đã cung cấp. Những thông tin không xuất hiện trong hình, chẳng hạn thời lượng chính xác trước/sau endpoint trim, không được tự suy đoán.
+
