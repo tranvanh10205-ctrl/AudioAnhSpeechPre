@@ -1,0 +1,3 @@
+﻿features,accuracy
+MFCC 13D,1.0
+MFCC + delta + delta-delta 39D,1.0

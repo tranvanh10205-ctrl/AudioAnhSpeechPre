@@ -1,0 +1,3 @@
+﻿method,accuracy,n_test
+HMM (39D MFCC),0.4,10
+"DTW (13D MFCC, 1 template/class)",0.9,10

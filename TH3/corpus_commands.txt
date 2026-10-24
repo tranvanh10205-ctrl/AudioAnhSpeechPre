@@ -1,0 +1,9 @@
+mở
+đóng
+lên
+xuống
+dừng
+mở lên
+mở xuống
+đóng lại
+dừng lại

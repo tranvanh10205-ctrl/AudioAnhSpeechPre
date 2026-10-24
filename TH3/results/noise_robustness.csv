@@ -1,0 +1,11 @@
+﻿filename,true_label,pred_label_noisy,correct_noisy,snr_db,max_loglik
+mo_7.wav,mo,mo,True,15,-6297.730960991887
+mo_8.wav,mo,mo,True,15,-6301.842161749756
+dong_7.wav,dong,len,False,15,-5919.251886966899
+dong_8.wav,dong,mo,False,15,-5300.938241198783
+len_7.wav,len,len,True,15,-5468.137254874487
+len_8.wav,len,len,True,15,-5804.2297144877975
+xuong_6.wav,xuong,mo,False,15,-6847.23228484045
+xuong_8.wav,xuong,mo,False,15,-7169.52532999547
+dung_7.wav,dung,len,False,15,-5094.004236103117
+dung_8.wav,dung,len,False,15,-6224.993035760744

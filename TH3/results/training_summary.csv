@@ -1,0 +1,6 @@
+﻿label,label_vi,n_states,covariance_type,train_seconds,iterations,final_loglik,converged
+mo,mở,5,diag,4.0744204000075115,36,-37829.80603514667,True
+dong,đóng,5,diag,0.29385510001156945,100,,True
+len,lên,5,diag,0.15709490000153892,61,-28404.96456235509,True
+xuong,xuống,5,diag,0.2965989999938756,100,,True
+dung,dừng,5,diag,0.301833199991961,100,,True

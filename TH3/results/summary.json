@@ -1,0 +1,17 @@
+{
+  "n_train": 30,
+  "n_test": 10,
+  "labels": {
+    "mo": "mở",
+    "dong": "đóng",
+    "len": "lên",
+    "xuong": "xuống",
+    "dung": "dừng"
+  },
+  "sample_rate_target": 16000,
+  "features_default": "13 MFCC + delta + delta-delta = 39D",
+  "n_states_default": 5,
+  "hmm_test_accuracy": 0.4,
+  "dtw_test_accuracy": 0.9,
+  "warning": "Bộ test chỉ 2 mẫu/từ; accuracy dao động mạnh, không đủ để kết luận tổng quát hóa."
+}

@@ -1,0 +1,11 @@
+﻿filename,path,true_label,true_label_vi,pred_label,pred_label_vi,correct,score_mo,score_dong,score_len,score_xuong,score_dung
+mo_7.wav,D:\SpeechAndAudio\TH3\data\test\mo\mo_7.wav,mo,mở,mo,mở,True,-5996.927977918246,,-6954.939819466762,,
+mo_8.wav,D:\SpeechAndAudio\TH3\data\test\mo\mo_8.wav,mo,mở,mo,mở,True,-6054.269080431191,,-6605.652558624877,,
+dong_7.wav,D:\SpeechAndAudio\TH3\data\test\dong\dong_7.wav,dong,đóng,len,lên,False,-5607.050977230717,,-5599.5138627845945,,
+dong_8.wav,D:\SpeechAndAudio\TH3\data\test\dong\dong_8.wav,dong,đóng,len,lên,False,-5037.532002468597,,-5016.688762970346,,
+len_7.wav,D:\SpeechAndAudio\TH3\data\test\len\len_7.wav,len,lên,len,lên,True,-5512.539353963278,,-5149.023773062494,,
+len_8.wav,D:\SpeechAndAudio\TH3\data\test\len\len_8.wav,len,lên,len,lên,True,-6364.767706494864,,-5894.633004381939,,
+xuong_6.wav,D:\SpeechAndAudio\TH3\data\test\xuong\xuong_6.wav,xuong,xuống,len,lên,False,-6742.977290499172,,-6649.932901901165,,
+xuong_8.wav,D:\SpeechAndAudio\TH3\data\test\xuong\xuong_8.wav,xuong,xuống,mo,mở,False,-6980.924238200584,,-7134.1703289509,,
+dung_7.wav,D:\SpeechAndAudio\TH3\data\test\dung\dung_7.wav,dung,dừng,mo,mở,False,-4967.6621336416665,,-5086.9861973613815,,
+dung_8.wav,D:\SpeechAndAudio\TH3\data\test\dung\dung_8.wav,dung,dừng,len,lên,False,-6007.947162974168,,-5819.100413046374,,

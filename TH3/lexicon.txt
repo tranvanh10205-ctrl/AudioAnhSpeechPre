@@ -1,0 +1,5 @@
+mở M O TONE_HOI
+đóng D O NG TONE_SAC
+lên L E N TONE_SAC
+xuống X UO NG TONE_SAC
+dừng D U NG TONE_HUYEN
